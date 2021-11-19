@@ -10,7 +10,6 @@ fi
 
 source venv/bin/activate
 
-echo
 echo "Activated venv 'venv'"
 
 echo

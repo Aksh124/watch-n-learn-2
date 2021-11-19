@@ -12,10 +12,9 @@ source venv/bin/activate
 
 echo "Activated venv 'venv'"
 
-echo
-
 pip3 install -q -r requirements.txt
 
 echo
+echo "Installed packages from 'requirements.txt'"
 
 python3 main.py
